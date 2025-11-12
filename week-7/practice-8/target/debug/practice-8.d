@@ -1,0 +1,1 @@
+C:\Users\User\OneDrive\Documents\a.joshua-amakiriCOS101\week-7\practice-8\target\debug\practice-8.exe: C:\Users\User\OneDrive\Documents\a.joshua-amakiriCOS101\week-7\practice-8\src\main.rs
